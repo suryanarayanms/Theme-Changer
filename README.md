@@ -1,16 +1,6 @@
-# theme_changer
+## Theme Changer App
+A very easy tutorial for dark / light mode with provider.
 
-A new Flutter project.
+# Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img alt="Light Theme" src="https://user-images.githubusercontent.com/88872217/204087404-9d20e63d-1805-459b-a425-22a1093fa79e.png" width="25%"> <img alt="Dark Theme" src="https://user-images.githubusercontent.com/88872217/204087406-9924bae5-77b0-449f-84a5-1595b5bcf09b.png" width="25%">
